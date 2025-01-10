@@ -36,9 +36,6 @@ Welcome to my Personal Portfolio Website! This project serves as a showcase of m
 2. Open the `index.html` file in your preferred browser to view the website.
 3. Customize the content and design by modifying the HTML, CSS, and JavaScript files as needed.
 
-## Screenshots
-
-_Add screenshots here to provide a visual preview of the website._
 
 ## Future Enhancements
 
